@@ -8,31 +8,31 @@
 
 Preference -> Plugins로 이동한 후
 
-![preference plugins]()
+![preference plugins](https://github.com/Ekutz/Fabric/blob/master/preference%20plugins.png?raw=true)
 
 Fabric을 검색하여 설치한다.
 
-![fabric plugin]()
+![fabric plugin](https://github.com/Ekutz/Fabric/blob/master/fabric%20plugin.png?raw=true)
 
 ## 3. 가입 및 로그인
 
 Fabric plugin이 정상적으로 설치되었다면 스튜디오 우측 상단에 있는 Fabric을 눌러 플러그인을 열어 sign up을 눌러 가입한다.
 
-![open fabric]()
+![open fabric](https://github.com/Ekutz/Fabric/blob/master/open%20fabric.png?raw=true)
 
-![sign up]()
+![sign up](https://github.com/Ekutz/Fabric/blob/master/sign%20up.png?raw=true)
 
 ## 4. 조직 생성
 
 메일을 통해 컨펌을 받고 나면 조직을 생성할 수 있다. 적당한 이름을 가진 조직을 생성해보자.
 
-![organize]()
+![organize](https://github.com/Ekutz/Fabric/blob/master/organize.png?raw=true)
 
 ## 5. 플랫폼 선택
 
 조직을 생성한 뒤에는 Fabric을 사용할 플랫폼을 선택해야 한다. 이 포스트는 안드로이드 관련 포스트이기 때문에 Android를 선택한다.
 
-![platform]()
+![platform](https://github.com/Ekutz/Fabric/blob/master/platform.png?raw=true)
 
 ## 6. 프로젝트 동기화
 
@@ -40,33 +40,33 @@ Fabric plugin이 정상적으로 설치되었다면 스튜디오 우측 상단�
 
 로그인 후 조직을 선택하고
 
-![check team]()
+![check team](https://github.com/Ekutz/Fabric/blob/master/check%20team.png?raw=true)
 
 각종 어플 오류를 분석하기 위한 Crashlytics를 선택한다.
 
-![add crashlytics]()
+![add crashlytics](https://github.com/Ekutz/Fabric/blob/master/add%20crashlytics.png?raw=true)
 
 다음 화면으로 넘어간 후 Crashlytics를 install 한다.
 
-![install]()
+![install](https://github.com/Ekutz/Fabric/blob/master/install.png?raw=true)
 
 그러면 화면이 다음과 같이 변하고 apply만 누르면 모든 세팅이 자동으로 설정된다.
 
-![auto modify]()
+![auto modify](https://github.com/Ekutz/Fabric/blob/master/auto%20modify.png?raw=true)
 
 아래와 같은 화면이 나온다면 성공적으로 진행된 것이다.
 
-![last]()
+![last](https://github.com/Ekutz/Fabric/blob/master/last.png?raw=true)
 
 이제 어플을 빌드하고 동작시킨다면 Fabric.io dashboard에 자동으로 어플이 등록된다.
 
 이제 [Fabric 로그인 화면](https://fabric.io/login)으로 이동하여 로그인을 하면 dashboard에 어플이 등록된 것을 확인할 수 있다.
 
-![dashboard]()
+![dashboard](https://github.com/Ekutz/Fabric/blob/master/dashboard.png?raw=true)
 
 웹 페이지 좌측의 Crashlytics를 선택하면 이제 usb 디버깅 없이 편리하게 오류를 수집할 수 있게 되었다.
 
-![final]()
+![final](https://github.com/Ekutz/Fabric/blob/master/final.png?raw=true)
 
 ## 7. 포스트를 마무리하며...
 
