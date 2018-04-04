@@ -14,7 +14,7 @@ Fabric을 검색하여 설치한다.
 
 ![fabric plugin](https://github.com/Ekutz/Fabric/blob/master/fabric%20plugin.png?raw=true)
 
-## 3. 가입 및 로그인
+## 2. 가입 및 로그인
 
 Fabric plugin이 정상적으로 설치되었다면 스튜디오 우측 상단에 있는 Fabric을 눌러 플러그인을 열어 sign up을 눌러 가입한다.
 
@@ -22,19 +22,19 @@ Fabric plugin이 정상적으로 설치되었다면 스튜디오 우측 상단�
 
 ![sign up](https://github.com/Ekutz/Fabric/blob/master/sign%20up.png?raw=true)
 
-## 4. 조직 생성
+## 3. 조직 생성
 
 메일을 통해 컨펌을 받고 나면 조직을 생성할 수 있다. 적당한 이름을 가진 조직을 생성해보자.
 
 ![organize](https://github.com/Ekutz/Fabric/blob/master/organize.png?raw=true)
 
-## 5. 플랫폼 선택
+## 4. 플랫폼 선택
 
 조직을 생성한 뒤에는 Fabric을 사용할 플랫폼을 선택해야 한다. 이 포스트는 안드로이드 관련 포스트이기 때문에 Android를 선택한다.
 
 ![platform](https://github.com/Ekutz/Fabric/blob/master/platform.png?raw=true)
 
-## 6. 프로젝트 동기화
+## 5. 프로젝트 동기화
 
 모든 준비가 끝나면 플러그인에 로그인을 한 후 프로젝트를 동기화 시킨다.
 
@@ -68,6 +68,6 @@ Fabric plugin이 정상적으로 설치되었다면 스튜디오 우측 상단�
 
 ![final](https://github.com/Ekutz/Fabric/blob/master/final.png?raw=true)
 
-## 7. 포스트를 마무리하며...
+## 6. 포스트를 마무리하며...
 
 단순한 USB 디버거 대용으로 생각하기 보단 사용자 데이터 수집기로 생각하는 것이 더 좋을 것 같다. 여러 환경에서 테스트를 직접 진행할 순 없는데 이를 OS, 기기, 버젼에 따라 다르게 수집해 주는 훌륭한 툴이다. 되도록 프로젝트 제작 초창기에 투입하여 최대한 많은 오류를 잡을 수 있으면 좋겠다.
